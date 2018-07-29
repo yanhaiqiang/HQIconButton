@@ -1,7 +1,8 @@
 # HQIconButton
 可以自定义Button图片和标题的位置
 
-https://github.com/yanhaiqiang/HQIconButton/blob/master/image.png
+
+![image](https://github.com/yanhaiqiang/HQIconButton/blob/master/image.png)
 
 #import "UIButton+HQCustomIcon.h"
 
