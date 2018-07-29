@@ -34,16 +34,16 @@
 {
     self.titleEdgeInsets = (UIEdgeInsets){
         .top    = 0,
-        .left   = 0,
+        .left   = Spacing,
         .bottom = 0,
-        .right  = 0,
+        .right  = -Spacing,
     };
     
     self.imageEdgeInsets = (UIEdgeInsets){
         .top    = 0,
-        .left   = 0,
+        .left   = -Spacing,
         .bottom = 0,
-        .right  = 0,
+        .right  = Spacing,
     };
 }
 
